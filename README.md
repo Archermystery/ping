@@ -1,6 +1,6 @@
 # Ping
 This telegram bot is written on python with the help of [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) . 
-It checks whether there are links. For the databases used sqlite3. For verification of reference [requests](https://github.com/psf/requests)
+It checks whether there are links. For the databases used sqlite3. For check url [requests](https://github.com/psf/requests)
 # Install 
 ## Linux
 Check Python
